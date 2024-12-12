@@ -1,0 +1,17 @@
+.card{
+  padding: 20px;
+  border: 3px solid white;
+  text-align: "center";
+  
+}
+.grid{
+  max-width: 120rem ;
+  grid-template-columns: 1fr 1fr 1fr ;
+    display: grid;
+    gap: 1.6rem;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    
+    
+}
